@@ -1,0 +1,24 @@
+[The talk](https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61)
+
+- Computers are made of nature
+- Sequential computation has sort of linearity
+- Computer science has lost its fundamental way
+- Harmony in computations
+- Deceptive time in history. Very recently ago we created another organisms of computations. We are at pre-scientific age of Computation. And now it is very awkward phase of "ugly" computation
+- Two impulses: it is fun to make machines DO things we want. This is like exercise in our cleverness. (the second impulse?) Computation is a tool to amplify our ability to explore the Universe.
+- Elegance is the deepest value in Computer Science. In this point elegance is lost, and we are in deeply inelegant way to make computation.
+- Elegance is a personal value which is highly affected in theoretical physics for example. Elegance is something which lead mathematical theorists.
+- "We call a theory elegant and beautiful if it can be expressed very simple"(built on top of what we know)
+- What's the simplest possible way to formalize library. When people say "simple" they always mean "familiar". For Python programmer Python program is simple. But if Python program was mathematically precise, they would realize how complicated is what they do.
+- Getting a degree is a process when you are always under pressure. 
+- Programming is a process of manipulating languages(to describe computation). The semantics is a relationship between computation and a ?program?. Semantics shapes how we think about programming. And there are multiple paradigms about how to think about semantics:
+  - operational
+  - denotational
+  - ?
+- (lambda calculus)
+- You can take any language and translate it to Lambda Calculus.
+- Purpose of language is to carry meaning.
+- Computation is a way to observe meanings. (like microscopes allow us to see small things) Languages let us convey meaning.
+- Meanings - are mathematical notions.
+- Euclid, geometry, revolutionary start.
+- 
