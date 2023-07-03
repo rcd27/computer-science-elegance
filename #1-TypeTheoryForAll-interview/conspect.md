@@ -21,4 +21,15 @@
 - Computation is a way to observe meanings. (like microscopes allow us to see small things) Languages let us convey meaning.
 - Meanings - are mathematical notions.
 - Euclid, geometry, revolutionary start.
-- 
+- Denotational semantics allows us see what is beautiful, and what is not
+- Denotational semantics is the best lens we have to see difference between elegant and ugly. We can use it to design languages / explain existing languages
+- Fortran introduced expressions. Revolutionary idea of compositionality of expressions
+- (Meanings of statements VS meanings of expressions)
+- Imperative programming is incredibly inefficient mentally
+- If you use denotational semantics to describe existing languages, you can highlight their defects
+- The nature of operational semantics is to hide the ugliness of existing programs. It is much more supportive to getting regular publications, because it is very adaptive. Any educated monkey can do that. The cost is huge: we can no longer see the elegance of programs
+- The speed of sequential computation is not important in 21st century, but ability to run in parallel
+- The meaning of a language should be independent of machine
+- Graphics programs are the sequence of commands/instructions of side effects to video-memory. And that is terrible because it is extremely hard to reason about
+- All imperative programming is a bunch of effects
+- The fundamental bug is in temporal discreteness. Time is not discrete(?). That bug brakes compositionality 
