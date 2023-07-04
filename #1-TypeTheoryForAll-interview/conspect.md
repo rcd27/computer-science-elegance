@@ -33,3 +33,15 @@
 - Graphics programs are the sequence of commands/instructions of side effects to video-memory. And that is terrible because it is extremely hard to reason about
 - All imperative programming is a bunch of effects
 - The fundamental bug is in temporal discreteness. Time is not discrete(?). That bug brakes compositionality 
+- Compositionality is a superpower to solve complex problems
+- If you take animation, and you make it functional you have relatively clumsy result. Animation is a lazy list of bitmaps. Lazylist is isomorphic.
+- Composition depends on perfection
+- Functional reactive programming has an idea: all your types have a mathematical model simple as can possibly be. Any operation can be fully expressed by model that is nothing about implementation. Understand what you want to say before saying it. (Domain Driven Design?)
+- Almost everything you have heard about FRP have nothing similar to that.(?why)
+- Algebra is about identifying patterns of operations and properties. You have a lists of things, and they form monoid. 
+- As programmers, we want to write reusable programs. Algebra is about the same but about reasoning. Reasoning what is parametrized.
+- Correctness is most important about programming. That's why dependent-typed programming languages are the beast.
+- Hardware can be expressed in a language of categories
+- A lot of people are interested in short-term values like passing performance review [to gain more money and this shit], but not in long-term values.
+- Formal methods are hard. If your goal to fool your manager or customer that you have done something valuable and deliver tons of code, don't use formal methods.
+- ?Is it possible to gain money(integrate to existing programs/systems) with use of formal methods?
